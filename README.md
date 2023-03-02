@@ -1,6 +1,6 @@
 # Backend Problem
 
-Welcome Candidate! The following problemt will test your backend skill and help
+Welcome Candidate! The following problem will test your backend skill and help
 us assessing you as a future employee.
 
 ## Overview
@@ -120,6 +120,13 @@ Please provide appropriate get and post endpoints for creating new sites, pushin
 configuration and live changes, and getting information.
 For the get requests create an endpoint for the configuration data, and another
 one for the latest live data entry.
+
+## Cloud Architecture
+Imagine that one day this service will have to be scaled to handle millions of interrupts
+per day. Please explain how you would expand this system and how you would create it
+in a cloud architecture. Additionally provide a diagram visualizing your architecture.
+
+This section is theoretical only and does not require code.
 
 ## Submitting
 Please clone this repository, and submit your changes through a pull request.
