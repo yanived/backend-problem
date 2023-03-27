@@ -1,0 +1,9 @@
+{
+  "dt-stamp": "2023-01-01 00:00:00",
+  "soc": 0,
+  "load_kwh": 350,
+  "net_load_kwh": 400,
+  "pv_notification": true,
+  "bio_notification": false,
+  "cro_notification": false
+}

@@ -1,0 +1,8 @@
+{
+  "soc": 0,
+  "load_kwh": 450,
+  "net_load_kwh": 200,
+  "pv_notification": false,
+  "bio_notification": false,
+  "cro_notification": true
+}

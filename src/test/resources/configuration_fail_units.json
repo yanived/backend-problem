@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "battery": {
+    "vendor": "Tesla",
+    "capacity_kwh": 3100,
+    "max_power_kw": 400
+  },
+  "production": {
+    "pv": {
+      "units": 1,
+      "kwp": 500
+    },
+    "bio": {
+      "units": 0
+    },
+    "cro": {
+      "units": -2,
+      "kwp": 800
+    }
+  }
+}
